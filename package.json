@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "https://www.geeksforgeeks.org/angular-js/build-a-simple-web-app-with-express-angular/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrzejwsol/my-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andrzejwsol/my-app/issues"
+  },
+  "homepage": "https://github.com/andrzejwsol/my-app#readme",
+  "dependencies": {
+    "@angular/cli": "^20.3.0",
+    "express": "^5.1.0"
+  }
+}
